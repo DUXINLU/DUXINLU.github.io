@@ -96,7 +96,7 @@ header h1 {
   -webkit-font-smoothing: antialiased; }
 
 header h1:before {
-  content: "./ ";
+  content: "";
   font-size: 24px; }
 
 header h2 {
