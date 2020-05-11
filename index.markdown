@@ -1,5 +1,5 @@
 ---
-site.title: 主页
+title: 主页
 ---
 <ul>
   {% for post in site.posts %}
